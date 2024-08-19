@@ -1,0 +1,22 @@
+_exp4_prepared_data.csv
+~$data1-telematics_syn_orignal data.xlsx
+~$data2-Comparison_Visualization-after dimension reduction of driving patterns.xlsx
+data1-telematics_syn_orignal data.xlsx
+data2-Comparison_Visualization-after dimension reduction of driving patterns.xlsx
+prepared_data.csv
+
+# Ignore all files
+*
+
+# Do not ignore directories, so we can apply rules to their contents
+!*/
+
+# Do not ignore files that start with '_mrp_'
+!_mrp_*
+
+_mrp_exp1.ipynb
+_mrp_exp2.ipynb
+_mrp_exp3.ipynb
+_mrp_exp4.ipynb
+_mrp_group_exp1-relative.ipynb
+_mrp_group_exp1.ipynb
